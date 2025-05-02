@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://www.loom.com/share/c64b77570d0b42038d1300617a51ad83?sid=8d0e61da-dc5d-4d89-81d0-2456ab50bc9e' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='assets/demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Loom](https://www.loom.com/) for macOS
 
